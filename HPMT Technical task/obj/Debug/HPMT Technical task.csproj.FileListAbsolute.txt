@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\bin\Debug\HPMT Technical task.exe.config
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\bin\Debug\HPMT Technical task.exe
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\bin\Debug\HPMT Technical task.pdb
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT Technical task.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT_Technical_task.TechnicalTask.resources
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT_Technical_task.Properties.Resources.resources
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT Technical task.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT Technical task.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT Technical task.exe
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT Technical task.pdb
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\bin\Debug\Dapper.dll
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\bin\Debug\Dapper.xml
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT Technical task.csproj.CopyComplete
+C:\Users\USER\source\repos\HPMT Technical task\HPMT Technical task\obj\Debug\HPMT_Technical_task.Edit_Settings.resources
