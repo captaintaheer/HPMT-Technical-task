@@ -1,3 +1,8 @@
+
+Dowonload or Clone to run on your PC.
+
+100% C# with Visual studio(2019)
+
 Technical task:
 	Using Visual Studio Community Edition and using either Visual Basic or C#, create a WPF desktop application as described below.
 	Create an app that displays measurement results stored in a Microsoft SQL database server, it must have four main features:
